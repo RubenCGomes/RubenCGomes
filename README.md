@@ -6,9 +6,9 @@
 
 ### you have (probably) reached the depths of GitHub to end up here. anyway, here's some pointless stats that you'll probably forget about in a minute.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenCGomes&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenCGomes&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCGomes&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCGomes&layout=compact&theme=dark)
 
 ###### (follow me on other social medias as well, if you wish to)
 
