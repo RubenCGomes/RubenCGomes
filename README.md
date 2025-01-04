@@ -10,8 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenCGomes&layout=compact&theme=dark)
 
-###### (follow me on other social medias as well, if you wish to)
-
 <div id="badges">
   <a href="https://open.spotify.com/user/xxdangerp996xx">
     <img src="https://img.shields.io/badge/Spotify-22c05a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify profile"/>
