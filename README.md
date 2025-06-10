@@ -1,10 +1,6 @@
-## henlo fren 👋
+## hello friend! 👋
 
-<div id="header" align="center">
-  <img src="https://media.tenor.com/x9_ISoFT4UcAAAAd/goofy-ahh-memes-shawty-trifling.gif" width="800" height="200" style=""/>
-</div>
-
-### you have (probably) reached the depths of GitHub to end up here. anyway, here's some pointless stats that you'll likely forget about in a minute.
+### you have (probably) reached the depths of GitHub to end up here. anyway, here's some stats that you'll likely forget about in a minute.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenCGomes&theme=dark&show_icons=true)
 
